@@ -1,5 +1,5 @@
-forestC
+Review template
 ========================================================
 
-forestC is an R package (in development) to estimate forest volume, biomass, and carbon from forest inventory data.
+Here's a template to use for writing a peer review for an academic article.
 
